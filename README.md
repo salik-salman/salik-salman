@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salik Salman
 - 👀 I’m A Professional Fullstack Developer
-- 🌱 I’m currently Doing A Job And Looking Forward To Collabrate In Some Funky Ideas
+- 🌱 I’m currently Doing A Job And Looking Forward To Collabrate In Some Creative Projects
 - 📫 You Can Reach Me At saliksalman13@gmail.com
 
 <!---
